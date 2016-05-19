@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="gl" xml:lang="gl" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" SourceControlDatabaseRoot="C:\Users\bkelley\Documents\My Translated Projects\flare120.liprjf" SourceControlDatabase="C:\Users\bkelley\Documents\My Translated Projects\flare120.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="ec3f4cf0-c72c-4f94-a3c4-f582e9b09f4b">
+    <ProjectFile Source="Target/The self.docx" Target="Target/The self.docx" />
+</LingoProject>
